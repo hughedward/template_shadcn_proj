@@ -1,0 +1,1 @@
+You are analyzing requirements for a complex UI build using shadcn MCP. (project)

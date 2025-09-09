@@ -1,0 +1,1 @@
+You are researching shadcn components for implementation. (project)
