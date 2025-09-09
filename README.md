@@ -338,3 +338,6 @@ project-root/
 4. **使用 pnpm** 作为包管理器，提高安装效率
 
 现在你可以开始使用 Shadcn/ui 构建美观的 React 应用了！
+super prompt:
+https://github.com/sanjeed5/awesome-cursor-rules-mdc
+https://github.com/Dicklesworthstone/claude_code_agent_farm
