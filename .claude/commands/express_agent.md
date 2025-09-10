@@ -1,1 +1,0 @@
-Single Agent Prompt for Quick Implementation (project)
